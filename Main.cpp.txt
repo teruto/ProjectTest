@@ -1,1 +1,4 @@
-Printf("Test");
+int main()
+{
+Printf("Fuck_You");
+}
